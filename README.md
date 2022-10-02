@@ -9,7 +9,7 @@ I usually contribute to open-source anime-related projects (which are in an acce
 #### My projects 🛠
 
 [Shiroi Kagi](https://shiroikagi.tk/): An osu-like web-based videogame which won a mention in Kajam 2021.<br>
-[anime-api](https://pypi.org/project/anime-api): A collection of python 3 anime API wrappers.
+[anime-api](https://pypi.org/project/anime-api): A collection of python 3 anime API wrappers.<br>
 [Nekos API](https://nekos-api.tk): A free and open-source anime images API
 
 #### Fun facts 😂
