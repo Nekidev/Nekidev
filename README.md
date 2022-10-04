@@ -21,6 +21,6 @@ I usually contribute to open-source anime-related projects (which are in an acce
 
 There are lots of things I like. Anime, manga, Hatsune Miku, coding, python3 and sailing are some, but there are many more that I cannot put here because the list would be infinite.
 
-#### Listen to music with me 🎶
+#### My stats
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rafabradleyrb&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rafabradleyrb&redirect=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekidev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
