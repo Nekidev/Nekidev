@@ -23,6 +23,11 @@ There are lots of things I like. Anime, manga, Hatsune Miku, coding, python3 and
 
 #### My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekidev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nekidev)](https://git.io/streak-stats)
+
+#### Find me
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
