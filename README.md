@@ -32,4 +32,4 @@ There are lots of things I like. Anime, manga, Hatsune Miku, coding, python3 and
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/777338793803513886)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Nekogi1)
 
-![Loli counter](https://nekos-api.tk/api/v1/loli?)](https://count.getloli.com/get/@anime-api?theme=gelbooru)
+![Loli counter](https://count.getloli.com/get/@Nekidev?theme=gelbooru)
