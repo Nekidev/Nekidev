@@ -33,3 +33,5 @@ There are lots of things I like. Anime, manga, Hatsune Miku, coding, python3 and
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Nekogi1)
 
 ![Loli counter](https://count.getloli.com/get/@Nekidev?theme=gelbooru)
+
+![Random image fetched from Nekos API](https://api.nekosapi.com/v2/images/random/file?filter[ageRating]=sfw)
