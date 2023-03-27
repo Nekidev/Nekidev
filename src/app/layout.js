@@ -1,11 +1,8 @@
+"use client";
+
 import Navbar from "./navbar";
 import { Montserrat } from "next/font/google";
 import "./globals.css";
-
-export const metadata = {
-    title: "Home / Nekidev",
-    description: "",
-};
 
 const montserrat = Montserrat({ subsets: ["latin"] });
 
