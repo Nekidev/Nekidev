@@ -222,9 +222,9 @@ export default function Home() {
 
 function ProjectsButton() {
     return (
-        <a href="#projects" className="px-8 py-2 font-extrabold text-black bg-white text-xl uppercase relative before:absolute before:-top-2 before:-left-2 before:w-4 before:h-4 before:bg-black before:rotate-45 after:absolute after:-bottom-2 after:-right-2 after:w-4 after:h-4 after:bg-black after:rotate-45 overflow-hidden hover:bg-gradient-to-br hover:from-green-400 hover:to-cyan-400 flex-1 sm:flex-none text-center">
+        <Link href="#projects" className="px-8 py-2 font-extrabold text-black bg-white text-xl uppercase relative before:absolute before:-top-2 before:-left-2 before:w-4 before:h-4 before:bg-black before:rotate-45 after:absolute after:-bottom-2 after:-right-2 after:w-4 after:h-4 after:bg-black after:rotate-45 overflow-hidden hover:bg-gradient-to-br hover:from-green-400 hover:to-cyan-400 flex-1 sm:flex-none text-center">
             Projects
-        </a>
+        </Link>
     );
 }
 

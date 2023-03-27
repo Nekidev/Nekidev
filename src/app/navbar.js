@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 export default function Navbar() {
     return (
         <div className="sticky top-0 left-0 right-0 flex flex-col items-center justify-center p-4 bg-black z-50">
@@ -11,9 +13,9 @@ export default function Navbar() {
                     <div className="font-extrabold uppercase text-4xl ml-16 pl-3">
                         Nekidev
                     </div>
-                    <a href="#about-me" className="hover:text-red-400 transition-colors font-medium hidden md:inline-block">About me</a>
-                    <a href="#projects" className="hover:text-orange-400 transition-colors font-medium hidden md:inline-block">Projects</a>
-                    <a href="#socials" className="hover:text-yellow-400 transition-colors font-medium hidden md:inline-block">Socials</a>
+                    <Link href="#about-me" className="hover:text-red-400 transition-colors font-medium hidden md:inline-block">About me</Link>
+                    <Link href="#projects" className="hover:text-orange-400 transition-colors font-medium hidden md:inline-block">Projects</Link>
+                    <Link href="#socials" className="hover:text-yellow-400 transition-colors font-medium hidden md:inline-block">Socials</Link>
                 </div>
                 <div className="absolute right-0 top-0">
                     <Speaker />
