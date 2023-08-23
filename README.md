@@ -10,7 +10,7 @@ I usually contribute to open-source anime-related projects (which are in an acce
 
 [Shiroi Kagi](https://shiroi-kagi-rythm-of-music.rafabradley.repl.co/): An osu-like web-based videogame which won a mention in Kajam 2021.<br>
 [anime-api](https://pypi.org/project/anime-api): A collection of python 3 anime API wrappers.<br>
-[Nekos API](https://nekosapi.com): A free and open-source anime images API
+[Nekos API](https://nekosapi.com): A free and open-source anime images API<br>
 [NekoSauce](https://nekosauce.org): An anime and manga sauce finder tool and API. It's still not released since it still needs funding to run the servers :/
 
 #### Fun facts 😂
