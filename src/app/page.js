@@ -56,7 +56,12 @@ export default function Home() {
                 </div>
                 <div className="flex-1 grow flex flex-col justify-between items-start">
                     <div>
-                        <h2 className="font-bold text-4xl -mt-40 pt-40" id="about-me">About me</h2>
+                        <h2
+                            className="font-bold text-4xl -mt-40 pt-40"
+                            id="about-me"
+                        >
+                            About me
+                        </h2>
                         <p className="mt-4">
                             Hi! I'm <b className="text-green-400">Neki</b>, a
                             self-taught web developer. I've been writing code
@@ -79,7 +84,9 @@ export default function Home() {
                 </div>
             </div>
             <div>
-                <h2 className="font-bold text-4xl -mt-40 pt-40" id="projects">Projects</h2>
+                <h2 className="font-bold text-4xl -mt-40 pt-40" id="projects">
+                    Projects
+                </h2>
                 <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 relative">
                     <Project
                         imageUrl="https://cdn.nekosapi.com/uploads/images/QHDPBGEQI5ECHMY6DQPA4LQBPA.webp"
@@ -102,11 +109,21 @@ export default function Home() {
                         tag="Videogame"
                         link="https://replit.com/@Rafabradley/Shiroi-Kagi-Rythm-of-Music"
                     />
+                    <Project
+                        imageUrl="/nekosauce.png"
+                        title="NekoSauce"
+                        subtitle="An anime & manga sauce finder tool."
+                        tag="API"
+                        link="https://nekosauce.org"
+                    />
                 </div>
             </div>
             <div>
                 <h2 className="font-bold text-4xl -mt-40 pt-40">Socials</h2>
-                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8 mt-8" id="socials">
+                <div
+                    className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8 mt-8"
+                    id="socials"
+                >
                     <Social
                         icon={
                             <svg
@@ -214,7 +231,18 @@ export default function Home() {
                 </div>
             </div>
             <div>
-                <p className="font-medium text-neutral-400">Made with <span className="text-red-400">❤</span> by Nekidev from <span className="text-cyan-400">Argentina</span>. Licensed under the MIT License. The source code can be found <Link href="https://github.com/Nekidev/Nekidev" className="underline">here</Link>.</p>
+                <p className="font-medium text-neutral-400">
+                    Made with <span className="text-red-400">❤</span> by Nekidev
+                    from <span className="text-cyan-400">Argentina</span>.
+                    Licensed under the MIT License. The source code can be found{" "}
+                    <Link
+                        href="https://github.com/Nekidev/Nekidev"
+                        className="underline"
+                    >
+                        here
+                    </Link>
+                    .
+                </p>
             </div>
         </main>
     );
@@ -222,7 +250,10 @@ export default function Home() {
 
 function ProjectsButton() {
     return (
-        <Link href="#projects" className="px-8 py-2 font-extrabold text-black bg-white text-xl uppercase relative before:absolute before:-top-2 before:-left-2 before:w-4 before:h-4 before:bg-black before:rotate-45 after:absolute after:-bottom-2 after:-right-2 after:w-4 after:h-4 after:bg-black after:rotate-45 overflow-hidden hover:bg-gradient-to-br hover:from-green-400 hover:to-cyan-400 flex-1 sm:flex-none text-center">
+        <Link
+            href="#projects"
+            className="px-8 py-2 font-extrabold text-black bg-white text-xl uppercase relative before:absolute before:-top-2 before:-left-2 before:w-4 before:h-4 before:bg-black before:rotate-45 after:absolute after:-bottom-2 after:-right-2 after:w-4 after:h-4 after:bg-black after:rotate-45 overflow-hidden hover:bg-gradient-to-br hover:from-green-400 hover:to-cyan-400 flex-1 sm:flex-none text-center"
+        >
             Projects
         </Link>
     );
