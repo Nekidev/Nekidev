@@ -324,13 +324,13 @@ function Social({ icon, username, name, color, link }) {
                 }}
             >
                 <div
-                    className="absolute z-10 -top-2 -left-2 w-4 h-4 bg-black rotate-45 border-r-[3px]"
+                    className="absolute z-10 -top-2 -left-2 w-4 h-4 bg-black rotate-45 border-r-2"
                     style={{
                         borderColor: color,
                     }}
                 ></div>
                 <div
-                    className="absolute z-10 -bottom-2 -right-2 w-4 h-4 bg-black rotate-45 border-l-[3px]"
+                    className="absolute z-10 -bottom-2 -right-2 w-4 h-4 bg-black rotate-45 border-l-2"
                     style={{
                         borderColor: color,
                     }}
