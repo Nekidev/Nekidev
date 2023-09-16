@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Neki, an argentinian otaku that codes in his free time! I speak English and Spanish :)
+I am Nyeki, an argentinian otaku that codes in his free time! I speak English and Spanish :)
 
 #### What I do ✍
 
