@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    body {
+        @apply bg-gray-200 text-gray-800;
+    }
+}
+
+@layer utilities {
+    .hidden-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+}
