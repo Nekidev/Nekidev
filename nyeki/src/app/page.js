@@ -11,7 +11,10 @@ export default function Home() {
                 <div className="flex flex-col gap-2 items-center justify-center text-center relative">
                     <img
                         className="w-full rounded-xl object-center object-cover -mb-12"
-                        src="/28b5d3d8b27ce6e0cfcb8a8aafa40de7.jpeg"
+                        src={
+                            "https://nekosapi.com/api/discord/banner?user_id=" +
+                            DISCORD_USER_ID
+                        }
                     />
                     <img
                         className="h-20 w-20 border-4 border-white rounded-full"
