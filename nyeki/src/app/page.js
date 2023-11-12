@@ -108,6 +108,22 @@ export default function Home() {
                             </svg>
                         }
                     />
+                    <LinkButton
+                        href="https://card.nyeki.dev"
+                        text="AniCard - Embeddable anime info cards"
+                        icon={
+                            <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                className="h-5 w-5"
+                                viewBox="0 0 24 24"
+                            >
+                                <path
+                                    fill="currentColor"
+                                    d="M4 20q-.825 0-1.413-.588T2 18V6q0-.825.588-1.413T4 4h16q.825 0 1.413.588T22 6v12q0 .825-.588 1.413T20 20H4Zm4.1-2H20V7.025L17 8l-3.075-1L12 9.625l-3.075 1v3.25l-1.9 2.625L8.1 18Z"
+                                ></path>
+                            </svg>
+                        }
+                    />
                 </div>
                 <div className="flex flex-col gap-2 w-full">
                     <h2 className="text-xl font-bold">Donate</h2>
@@ -131,7 +147,20 @@ export default function Home() {
                         href="https://nyekipy.cb.id"
                         text="CB Wallet - Make a crypto donation!"
                         icon={
-                            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12.95 22c-4.503 0-8.445-3.04-9.61-7.413c-1.165-4.373.737-8.988 4.638-11.25a9.906 9.906 0 0 1 12.008 1.598l-3.335 3.367a5.185 5.185 0 0 0-7.354.013a5.252 5.252 0 0 0 0 7.393a5.185 5.185 0 0 0 7.354.013L20 19.088A9.887 9.887 0 0 1 12.95 22z"></path></svg>
+                            <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                className="h-5 w-5"
+                                viewBox="0 0 24 24"
+                            >
+                                <path
+                                    fill="none"
+                                    stroke="currentColor"
+                                    strokeLinecap="round"
+                                    strokeLinejoin="round"
+                                    strokeWidth="2"
+                                    d="M12.95 22c-4.503 0-8.445-3.04-9.61-7.413c-1.165-4.373.737-8.988 4.638-11.25a9.906 9.906 0 0 1 12.008 1.598l-3.335 3.367a5.185 5.185 0 0 0-7.354.013a5.252 5.252 0 0 0 0 7.393a5.185 5.185 0 0 0 7.354.013L20 19.088A9.887 9.887 0 0 1 12.95 22z"
+                                ></path>
+                            </svg>
                         }
                     />
                 </div>
