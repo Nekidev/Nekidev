@@ -12,7 +12,7 @@ I usually contribute to open-source anime-related projects (which are in an acce
 [anime-api](https://pypi.org/project/anime-api): A collection of python 3 anime API wrappers.<br>
 [Nekos API](https://nekosapi.com): A free and open-source anime images API<br>
 [Nekos.Land](https://nekos.land): A web client for Nekos API. It's still quite incomplete but it works.<br>
-[NekoSauce](https://nekosauce.org): An anime and manga sauce finder tool and API. It's still not released since it still needs funding to run the servers (servers are also paused) :/
+[NekoSauce](https://nekosauce.org): An anime and manga sauce finder tool and API. It's still not released since it still needs funding to run the servers (servers are also paused) :/<br/>
 [Naoka](https://naoka.nyeki.dev): An anime and manga tracking desktop app.
 
 #### Fun facts 😂
