@@ -6,6 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
     title: "Nyeki.py",
     description: "Hi! I'm Nyeki, a hobbyist web developer from Argentina. Here are some projects where you can find me!",
+    themeColor: "#AEC6CF"
 };
 
 export default function RootLayout({ children }) {
