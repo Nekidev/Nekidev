@@ -221,7 +221,7 @@ export default function Home() {
                                 </g>
                             </svg>
                         }
-                        href="https://x.com/Nekidev"
+                        href="https://x.com/Nyekipy"
                     />
                     <IconButton
                         icon={
