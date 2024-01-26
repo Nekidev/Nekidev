@@ -31,7 +31,7 @@ There are lots of things I like. Anime, manga, Hatsune Miku, coding, python3 and
 #### Find me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nekidev)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Nekidev)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Nyekipy)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/777338793803513886)
 
 ![Loli counter](https://count.getloli.com/get/@Nekidev?theme=gelbooru)
