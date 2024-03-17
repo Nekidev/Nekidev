@@ -22,7 +22,7 @@ I usually contribute to open-source anime-related projects (which are in an acce
 
 #### What I like 💗
 
-There are lots of things I like. Anime, manga, Hatsune Miku, coding, python3 and sailing are some, but there are many more that I cannot put here because the list would be infinite.
+There are lots of things I like. Anime, manga, coding, and listening to music are some, but there are many more that I cannot put here because the list would be infinite.
 
 #### My stats
 
