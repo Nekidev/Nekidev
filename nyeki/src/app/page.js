@@ -17,14 +17,14 @@ export default function Home() {
                         }
                     />
                     <img
-                        className="h-20 w-20 border-4 border-white rounded-full"
+                        className="h-20 w-20 border-4 border-white dark:border-zinc-800 rounded-full"
                         src={
                             "https://nekosapi.com/api/discord/avatar?user_id=" +
                             DISCORD_USER_ID
                         }
                     />
                     <h1 className="text-2xl font-bold mt-2">Nyeki.py</h1>
-                    <p className="text-gray-600 text-sm">
+                    <p className="text-gray-600 dark:text-gray-400 text-sm">
                         Hi! I'm Nyeki, a hobbyist web developer from Argentina.
                         Here are some projects where you can find me!
                     </p>
@@ -167,7 +167,7 @@ export default function Home() {
                         }
                     />
                 </div>
-                <div className="h-px w-full bg-gray-300"></div>
+                <div className="h-px w-full bg-gray-300 dark:bg-zinc-800"></div>
                 <div className="flex flex-row items-center justify-center gap-4">
                     <IconButton
                         icon={
@@ -251,7 +251,7 @@ function LinkButton({ href, icon, text }) {
     return (
         <Link
             href={href}
-            className="flex flex-row items-center gap-3 p-3 rounded-xl bg-white hover:bg-gray-100 text-gray-600"
+            className="flex flex-row items-center gap-3 p-3 rounded-xl bg-white hover:bg-gray-100 text-gray-600 dark:bg-zinc-800 dark:hover:bg-zinc-900 dark:text-zinc-400"
             target="_blank"
         >
             <div className="shrink-0">
