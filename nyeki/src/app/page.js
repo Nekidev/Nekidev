@@ -64,7 +64,7 @@ export default function Home() {
                         }
                     />
                     <LinkButton
-                        href="https://nekos.land"
+                        href="https://land.nekosapi.com"
                         text="Nekos.Land - Thousands of anime artworks"
                         icon={
                             <svg
