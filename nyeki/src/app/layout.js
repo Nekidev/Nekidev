@@ -11,6 +11,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
     return (
         <html lang="en">
+            <head>
+                <link rel="icon" href={"https://nekosapi.com/api/discord/avatar?user_id="}>
+            </head>
             <body className={inter.className}>{children}</body>
         </html>
     );
