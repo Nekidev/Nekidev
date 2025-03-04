@@ -26,7 +26,7 @@ There are lots of things I like. Anime, manga, coding, and listening to music ar
 
 #### My stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nekidev)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Nekidev)](https://git.io/streak-stats)
 
 #### Find me
 
