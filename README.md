@@ -2,6 +2,9 @@
 
 I am Nyeki, an argentinian otaku that codes in his free time! I speak English and Spanish :)
 
+> [!NOTE]
+> I've migrated to [my own self-hosted GitLab instance](https://git.nyeki.dev/). You can find my current work on [my profile](https://git.nyeki.dev/nyeki).
+
 #### What I do ✍
 
 I usually contribute to open-source anime-related projects (which are in an acceptabe state of mantainance). I sometimes work in my own anime-reated open-source projects when I have nothing better to do.
